@@ -1,0 +1,46 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.mystyle {
+    color: pink;
+    text-align: center;
+}
+
+/* Thiết lập chiều cao cho header và footer */
+header {
+    height: 55px; /* Điều chỉnh chiều cao tùy theo thiết kế của bạn */
+    background-color: lightgray; /* Màu nền của header */
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+footer {
+    height: 60px; /* Điều chỉnh chiều cao tùy theo thiết kế của bạn */
+    background-color: lightgray; /* Màu nền của footer */
+}
+
+/* Thiết lập phần nội dung chiếm hết diện tích còn lại */
+#container {
+    min-height: calc(100vh - (55px + 60px)); /* 100vh là chiều cao của toàn bộ trình duyệt, trừ đi chiều cao của header và footer */
+    padding: 20px; /* Thêm padding tùy ý cho phần nội dung */
+}
