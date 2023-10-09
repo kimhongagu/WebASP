@@ -1,0 +1,76 @@
+﻿@page
+@model BTTH03.Pages.Students.IndexModel
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div class="row mb-3">
+	<div class="col-md-4">
+		<form asp-action="Index" asp-controller="AdminPosts" method="get" class="input-group">
+			<input type="text" name="searchText" class="form-control form-control-sm" placeholder="Tìm kiếm..." />
+			<span class="input-group-append mx-2">
+				<button type="submit" class="btn btn-info btn-sm">Tìm</button>
+			</span>
+		</form>
+	</div>
+	<div class="col-md-4">
+		| <a asp-page="Index" asp-route-orderBy="Code">Danh sách đầy đủ</a>
+	</div>
+	<div class="col-md-4 text-right">
+		<a asp-action="Create" class="btn btn-primary btn-sm">Create New</a>
+	</div>
+</div>
+<table id="example" class="table dataTable">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Student.FirstOrDefault().Code)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Student.FirstOrDefault().Name)
+			<th>
+				@Html.DisplayNameFor(model => model.Student.FirstOrDefault().Birth)
+			<th>
+				@Html.DisplayNameFor(model => model.Student.FirstOrDefault().Email)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Student.FirstOrDefault().Class)
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.Student)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Code)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Name)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Birth)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Email)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Class.Title)
+				</td>
+				<td>
+					<a asp-page="./Edit" asp-route-id="@item.StudentID">Edit</a> |
+					<a asp-page="./Details" asp-route-id="@item.StudentID">Details</a> |
+					<a asp-page="./Delete" asp-route-id="@item.StudentID">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+
+
+
