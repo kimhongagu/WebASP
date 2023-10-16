@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BTTH04.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTTH04.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\css\\app.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\css\\app.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\app.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\fonts\\.gitkeep",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\.gitkeep"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\img\\avatars\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\avatars\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\img\\avatars\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\avatars\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\img\\avatars\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\avatars\\avatar-4.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\img\\avatars\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\avatars\\avatar-5.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\img\\avatars\\avatar.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\avatars\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\img\\icons\\icon-48x48.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\icons\\icon-48x48.png"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\img\\photos\\unsplash-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\photos\\unsplash-1.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\img\\photos\\unsplash-2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\photos\\unsplash-2.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\img\\photos\\unsplash-3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\photos\\unsplash-3.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\js\\app.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\js\\app.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\app.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\AdminAssets\\js\\app.js.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\app.js.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\Uploads\\Product\\1c5ae1af-b682-4086-8cbe-139468244e61_m2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\1c5ae1af-b682-4086-8cbe-139468244e61_m2.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\Uploads\\Product\\2766c3dc-c9ff-4802-ba18-0644200b99ec_m3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\2766c3dc-c9ff-4802-ba18-0644200b99ec_m3.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\Uploads\\Product\\33527459-c5fd-47d0-a2fc-328f4e120065_m1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\33527459-c5fd-47d0-a2fc-328f4e120065_m1.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\Uploads\\Product\\55478df5-c393-4174-b052-5a43dad0795b_m1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\55478df5-c393-4174-b052-5a43dad0795b_m1.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\Uploads\\Product\\75784fa2-b9db-489c-930c-95004275c420_m2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\75784fa2-b9db-489c-930c-95004275c420_m2.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\Uploads\\Product\\9f38d1cf-7620-4235-8e9c-f0bc3cd2e5df_m2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\9f38d1cf-7620-4235-8e9c-f0bc3cd2e5df_m2.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\Uploads\\Product\\be3028eb-dda5-4e2d-9382-bdd65a734888_m2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\be3028eb-dda5-4e2d-9382-bdd65a734888_m2.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\Uploads\\Product\\d65f422c-d949-4304-a9c1-21fa661cec6f_v5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Product\\d65f422c-d949-4304-a9c1-21fa661cec6f_v5.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\Uploads\\h1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\h1.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\Uploads\\h2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\h2.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\Uploads\\h3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\h3.jpg"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\AGU_7_WebASP\\BTTH04\\BTTH04\\BTTH04\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BTTH04.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BTTH04.props",
+      "PackagePath": "build\\BTTH04.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BTTH04.props",
+      "PackagePath": "buildMultiTargeting\\BTTH04.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BTTH04.props",
+      "PackagePath": "buildTransitive\\BTTH04.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

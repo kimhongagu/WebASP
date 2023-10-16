@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta name="description" content="" />
+	<meta name="author" content="" />
+	<title>Shop Homepage - Start Bootstrap Template</title>
+	<!-- Favicon-->
+	<link rel="icon" type="image/x-icon" href="~/assets/favicon.ico" />
+	<!-- Bootstrap icons-->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+	<!-- Core theme CSS (includes Bootstrap)-->
+	<link href="~/assets/css/styles.css" rel="stylesheet" />
+</head>
+<body>
+	<!-- Navigation-->
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<div class="container px-4 px-lg-5">
+			<a class="navbar-brand" href="#!">Start Bootstrap</a>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+					<li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Home</a></li>
+					<li class="nav-item"><a class="nav-link" href="#!">About</a></li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Danh mục</a>
+						<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+							@foreach (var category in (IEnumerable<Category>)ViewData["Categories"])
+							{
+								<li><a class="dropdown-item" href="@Url.Action("Index", "Products", new { categoryId = category.ID })">@category.Name</a></li>
+							}
+						</ul>
+					</li>
+					<li class="nav-item"><a class="nav-link" asp-area="Admin" asp-controller="Home" asp-action="Index">Admin</a></li>
+				</ul>
+				<form class="d-flex">
+					<button class="btn btn-outline-dark" type="submit">
+						<i class="bi-cart-fill me-1"></i>
+						Cart
+						<span class="badge bg-dark text-white ms-1 rounded-pill">0</span>
+					</button>
+				</form>
+			</div>
+		</div>
+	</nav>
+	<!-- Header-->
+	<header class="bg-dark py-5">
+		<div class="container px-4 px-lg-5 my-5">
+			<div class="text-center text-white">
+				<h1 class="display-4 fw-bolder">Shop in style</h1>
+				<p class="lead fw-normal text-white-50 mb-0">With this shop hompeage template</p>
+			</div>
+		</div>
+	</header>
+	<!-- Section-->
+	<section class="py-5">
+		<div class="container px-4 px-lg-5 mt-5">
+			@RenderBody()
+		</div>
+		<div class="banner">
+			<img src="~/uploads/h3.jpg" alt="Banner" class="img-fluid w-100">
+		</div>
+	</section>
+	<!-- Footer-->
+	@* <footer class="py-5 bg-dark">
+	<div class="container"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2023</p></div>
+	</footer> *@
+
+	<footer class="bg-dark text-white text-center text-lg-start">
+		<!-- Grid container -->
+		<div class="container p-4">
+			<!--Grid row-->
+			<div class="row">
+				<!--Grid column-->
+				<div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+					<h5 class="text-uppercase">ABC Shop - Cửa hàng văn phòng phẩm</h5>
+
+					<p>
+						Địa chỉ: 18 Ung Văn Khiêm, phường Đông Xuyên, TP. Long Xuyên, An Giang
+					</p>
+					<p>
+						Điện thoại: 076 3841190 - Email: dtkimhong_21th&#64student.agu.edu.vn
+					</p>
+				</div>
+				<!--Grid column-->
+				<!--Grid column-->
+				<div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+					<h5 class="text-uppercase">Links</h5>
+
+					<ul class="list-unstyled mb-0">
+						@foreach (var category in (IEnumerable<Category>)ViewData["Categories"])
+						{
+							<li>
+								<a href="#!" class="text-white">@category.Name</a>
+							</li>
+						}
+
+					</ul>
+				</div>
+				<!--Grid column-->
+				<!--Grid column-->
+				<div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+					<h5 class="text-uppercase mb-0">Dịch vụ khách hàng</h5>
+
+					<ul class="list-unstyled">
+						<li>
+							<a href="#!" class="text-white">Hướng dẫn mua hàng</a>
+						</li>
+						<li>
+							<a href="#!" class="text-white">Câu hỏi thường gặp</a>
+						</li>
+						<li>
+							<a href="#!" class="text-white">Liên hệ với chúng tôi</a>
+						</li>
+					</ul>
+				</div>
+				<!--Grid column-->
+			</div>
+			<!--Grid row-->
+		</div>
+		<!-- Grid container -->
+		<!-- Copyright -->
+		<div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+			© 2020 Copyright:
+			<a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+		</div>
+		<!-- Copyright -->
+	</footer>
+
+	<!-- Bootstrap core JS-->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+	<!-- Core theme JS-->
+	<script src="~/assets/js/scripts.js"></script>
+</body>
+</html>
