@@ -1,0 +1,28 @@
+﻿@model IEnumerable<BTTH05.Models.Product>
+
+<div class="row">
+	@foreach (var item in Model)
+	{
+		<div class="col-sm-3 d-flex">
+			<div class="card text-center m-2 shadow">
+				<div class="card-header bg-info text-white">
+					<h5>
+						@Html.DisplayFor(modelItem => item.Manufacturer)
+					</h5>
+				</div>
+				<div class="card-body">
+					<a asp-action="Details" asp-route-id="@item.Id">
+						<img src="~/images/@item.Image" style="max-width:100%">
+					</a>
+					@Html.DisplayNameFor(model => model.Price):
+					<span class="text-danger"><strong>@Html.DisplayFor(modelItem => item.Price)</strong></span>
+				</div>
+				<div class="card-footer bg-light">
+					<a asp-action="Details" asp-route-id="@item.Id">
+						<strong>@Html.DisplayFor(modelItem => item.Name)</strong>
+					</a>
+				</div>
+			</div>
+		</div>
+	}
+</div>
